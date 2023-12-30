@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,grammarly.com
 
 #QuillBot
 DOMAIN-SUFFIX,quillbot.com
+
+#DeepL
+DOMAIN-SUFFIX,deepl.com
