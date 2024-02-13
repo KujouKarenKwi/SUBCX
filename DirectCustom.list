@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,quillbot.com
 
 #DeepL
 DOMAIN-SUFFIX,deepl.com
+
+#ACA
+DOMAIN,api.acaisbest.shop
