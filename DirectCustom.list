@@ -27,5 +27,6 @@ DOMAIN,api.acaisbest.shop
 #BILIBILI CN UPOS
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,dataflow.biliapi.com
 DOMAIN,live-trace.bilibili.com
