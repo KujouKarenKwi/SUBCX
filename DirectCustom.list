@@ -30,3 +30,7 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,dataflow.biliapi.com
 DOMAIN,live-trace.bilibili.com
+
+#SpotifyCDN
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN,audio-ak-spotify-com.akamaized.net
