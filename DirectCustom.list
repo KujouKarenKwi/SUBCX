@@ -31,6 +31,9 @@ DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,dataflow.biliapi.com
 DOMAIN,live-trace.bilibili.com
 DOMAIN,space.bilibili.com
+DOMAIN,mall.bilibili.com
+DOMAIN,pay.bilibili.com
+DOMAIN,i1.hdslb.com
 
 #SpotifyCDN
 #DOMAIN,audio-ak-spotify-com.akamaized.net
