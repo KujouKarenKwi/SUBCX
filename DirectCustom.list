@@ -37,3 +37,9 @@ DOMAIN,i1.hdslb.com
 
 #SpotifyCDN
 #DOMAIN,audio-ak-spotify-com.akamaized.net
+
+#DandanPlay
+DOMAIN-SUFFIX,dandanplay.net
+
+#QStory
+DOMAIN,qstory.linl.top
