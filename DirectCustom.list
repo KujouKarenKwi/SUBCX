@@ -5,10 +5,7 @@ DOMAIN-SUFFIX,mycard520.com.tw
 #HBR AKA
 DOMAIN,heaven-burns-red-assets.akamaized.net
 
-#UPC
-DOMAIN-KEYWORD,upc
-
-#PJSK AKA
+#PJSK_AKA
 DOMAIN,production-cf2d2388-assetbundle.sekai.colorfulpalette.org
 DOMAIN-SUFFIX,assetbundle.sekai.colorfulpalette.org
 
@@ -48,3 +45,8 @@ DOMAIN,qstory.linl.top
 #SteamVoice
 DST-PORT,27014-27020
 IP-CIDR,45.121.184.0/24
+
+#China_University_of_Petroleum
+DOMAIN-SUFFIX,upc.edu.cn,DIRECT
+IP-CIDR,121.251.251.207/24,DIRECT
+DOMAIN-KEYWORD,upc
