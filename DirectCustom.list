@@ -47,6 +47,10 @@ DST-PORT,27014-27020
 IP-CIDR,45.121.184.0/24
 
 #China_University_of_Petroleum
-DOMAIN-SUFFIX,upc.edu.cn,DIRECT
-IP-CIDR,121.251.251.207/24,DIRECT
+DOMAIN-SUFFIX,upc.edu.cn
+IP-CIDR,121.251.251.207/24
 DOMAIN-KEYWORD,upc
+
+#openwrt_tailscale_transmission
+PROCESS-NAME,transmission-daemon,DIRECT
+PROCESS-NAME,tailscaled,DIRECT
