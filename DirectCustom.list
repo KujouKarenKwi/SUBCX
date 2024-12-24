@@ -52,5 +52,9 @@ IP-CIDR,121.251.251.207/24
 DOMAIN-KEYWORD,upc
 
 #openwrt_tailscale_transmission
-PROCESS-NAME,transmission-daemon,DIRECT
-PROCESS-NAME,tailscaled,DIRECT
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,tailscaled
+PROCESS-NAME,tailscale-ipn.exe
+PROCESS-NAME,tailscale.exe
+PROCESS-NAME,tailscaled.exe
+DOMAIN-KEYWORD,tailscale
