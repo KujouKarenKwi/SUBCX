@@ -51,10 +51,13 @@ DOMAIN-SUFFIX,upc.edu.cn
 IP-CIDR,121.251.251.207/24
 DOMAIN-KEYWORD,upc
 
-#openwrt_tailscale_transmission
+#openwrt_transmission
 PROCESS-NAME,transmission-daemon
+
+#tailscale
 PROCESS-NAME,tailscaled
 PROCESS-NAME,tailscale-ipn.exe
 PROCESS-NAME,tailscale.exe
 PROCESS-NAME,tailscaled.exe
 DOMAIN-KEYWORD,tailscale
+IP-CIDR,103.84.155.188
