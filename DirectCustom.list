@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,deepl.com
 #ACA
 DOMAIN,api.acaisbest.shop
 
-#BILIBILI CN UPOS
+#BilibiliCnUPOS
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
@@ -60,4 +60,3 @@ PROCESS-NAME,tailscale-ipn.exe
 PROCESS-NAME,tailscale.exe
 PROCESS-NAME,tailscaled.exe
 DOMAIN-KEYWORD,tailscale
-IP-CIDR,103.84.155.188
