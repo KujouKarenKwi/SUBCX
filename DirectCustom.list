@@ -60,3 +60,6 @@ PROCESS-NAME,tailscale-ipn.exe
 PROCESS-NAME,tailscale.exe
 PROCESS-NAME,tailscaled.exe
 DOMAIN-KEYWORD,tailscale
+
+#OriginLab
+DOMAIN-SUFFIX,originlab.com
