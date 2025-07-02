@@ -61,5 +61,7 @@ PROCESS-NAME,tailscale.exe
 PROCESS-NAME,tailscaled.exe
 DOMAIN-KEYWORD,tailscale
 
+#Elsevier
+DOMAIN-SUFFIX,elsevier.com
 #OriginLab
 DOMAIN-SUFFIX,originlab.com
