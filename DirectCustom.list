@@ -63,5 +63,9 @@ DOMAIN-KEYWORD,tailscale
 
 #Elsevier
 DOMAIN-SUFFIX,elsevier.com
+
 #OriginLab
 DOMAIN-SUFFIX,originlab.com
+
+#CloudflareRobot
+DOMAIN,challenges.cloudflare.com
