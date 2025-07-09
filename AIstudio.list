@@ -1,4 +1,7 @@
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,aistudio.google.com
-DOMAIN,grok.com
-DOMAIN,claude.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,perplexity.ai
